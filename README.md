@@ -24,3 +24,7 @@
   * 人の動きを検知
 * part11
   * 人の動きに合わせてパーティクルを動かす
+* part12
+  * openCVを使って色々作ったものたち
+* part13
+  * Built with Processingを読んで作ったサンプルたち

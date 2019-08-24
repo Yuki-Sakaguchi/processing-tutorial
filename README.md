@@ -32,3 +32,7 @@
   * noteで見つけたサンプル
 * part15
   * twitterで見つけたサンプル
+* part15
+  * noiseを使った波など
+* part16
+  * isometricな立体

@@ -36,3 +36,5 @@
   * noiseを使った波など
 * part17
   * isometricな立体
+* part18
+  * 3dなもの

@@ -37,3 +37,9 @@ void draw() {
     popMatrix();
   }
 }
+
+void keyPressed() {
+  if (key == ' ') {
+    saveFrame("####.png");
+  }
+}

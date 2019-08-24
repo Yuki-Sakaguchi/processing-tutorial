@@ -28,3 +28,7 @@
   * openCVを使って色々作ったものたち
 * part13
   * Built with Processingを読んで作ったサンプルたち
+* part14
+  * noteで見つけたサンプル
+* part15
+  * twitterで見つけたサンプル

@@ -69,3 +69,9 @@ void captureEvent (Capture c) {
 void mouseClicked (){
  gravity = !gravity;
 }
+
+void keyPressed() {
+  if (key == ' ') {
+    saveFrame("####.png");
+  }
+}

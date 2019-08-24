@@ -69,3 +69,9 @@ void draw () {
 void captureEvent (Capture c) {
   c.read();
 }
+
+void keyPressed() {
+  if (key == ' ') {
+    saveFrame("####.png");
+  }
+}

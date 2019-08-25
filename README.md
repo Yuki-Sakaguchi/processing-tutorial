@@ -38,3 +38,5 @@
   * isometricな立体
 * part18
   * 3dなもの
+* part19
+  * TILE
